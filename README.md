@@ -23,7 +23,7 @@ LLM Game 만들기 실습
 |   기술   | 내용            | 모델 |
 |:--------:|:-----------------:|:-----------------:|
 | 웹 인터페이스 | 게임 상태 UI 구현 실시간 반영 | streamlit |
-| LLM Framework | 프롬프트 엔지니어링 및 모델 연동 | LangChain |
+| LLM Framework | 프롬프트 엔지니어링 및 모델 연동 | LangChain<br/>gpt-4.1-mini |
 | TTS | AI 모델의 답변 텍스트를 자연스러운 음성으로 변환 | gpt-4o-mini-tts |
 
 <br/><br/>
