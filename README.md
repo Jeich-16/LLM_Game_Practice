@@ -10,9 +10,9 @@ LLM Game 만들기 실습
 <br/><br/>
 
 ## 📋 개요
-![123](https://github.com/user-attachments/assets/d8f8698d-5b08-4c04-a92c-ab41805fa22b)
-[출처](https://namu.wiki/w/Buckshot%20Roulette)
-> itch.io | Steam 에서 출시된 게임 <Buckshot Roulette><br/><br/>
+![123](https://github.com/user-attachments/assets/f4bba011-4abc-4ef4-a42e-82925ba70b92)
+> itch.io | Steam 에서 출시된 게임 'Buckshot Roulette'
+> [출처](https://namu.wiki/w/Buckshot%20Roulette)<br/><br/>
 > 본 게임은 Russian Roulette 게임 기반 심리 스릴러 게임으로,<br/>
 > Russian Roulette 규칙에 LLM의 추론 능력과 페르소나를 결합한 1:1 턴제 전략 게임입니다.<br/>
 > 단순한 확률 게임을 넘어, AI의 도발과 심리적 압박 속에서 긴장감 넘치는 대결을 제공합니다.
