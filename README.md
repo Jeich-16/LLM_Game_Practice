@@ -42,11 +42,14 @@ LLM Game 만들기 실습
 
 ---
 
-<!-- ## 진행 결과
-<img width="450" height="auto" alt="01" src="https://github.com/user-attachments/assets/d2da10a0-e661-4d7c-87be-d4dbc658693d" />  
-<img width="450" height="auto" alt="02" src="https://github.com/user-attachments/assets/8c3425b9-798b-437f-8877-1c9f2ebfd834" /><br/><br/>
-<img width="450" height="auto" alt="03" src="https://github.com/user-attachments/assets/3b1d39f6-3f5a-48e9-a373-17b12e88f664" />  
-<img width="450" height="auto" alt="04" src="https://github.com/user-attachments/assets/60a94a53-bdb6-4387-a4ce-c986690025ed" /><br/><br/> -->
+## 진행 화면
+<img width="450" height="auto" alt="1" src="https://github.com/user-attachments/assets/95d2aa92-839b-4e5a-a129-dd71c9a84735" /><br/>↑ 게임 이름과 소개<br/><br/>
+<img width="450" height="auto" alt="2" src="https://github.com/user-attachments/assets/03771791-b05b-41d7-8c51-f6f2fc40e44b" /><br/>↑ 게임 메시지 박스와 행동 탭<br/><br/>
+<img width="450" height="auto" alt="3" src="https://github.com/user-attachments/assets/1e817c2f-03bf-44da-b334-10998da651da" /><br/>↑ 참가자 정보<br/><br/>
+<img width="450" height="auto" alt="4" src="https://github.com/user-attachments/assets/bfdec7eb-460a-40fe-b368-7d26a2b78365" /><br/>↑ 상대 AI에게 턴이 넘어간 경우<br/><br/>
+<img width="450" height="auto" alt="5" src="https://github.com/user-attachments/assets/2b906c6c-b16a-4276-8c2a-eb0563b73592" /><br/>↑ 상대 AI의 행동 개시 및 멘트 출력(텍스트 & 음성)<br/><br/>
+<img width="450" height="auto" alt="6" src="https://github.com/user-attachments/assets/66501ca1-7922-454b-bdb8-8d420bfd00f5" /><br/>↑ 아이템 사용<br/><br/>
+
 
 <br/><br/>
 
