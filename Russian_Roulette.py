@@ -268,12 +268,12 @@ if not game_state['game_over']:  # 게임 진행 중
 
         if sally_action == 'item':
             
-            if select_action_items == '커피':
+            if item_name == '커피':
                 sally['hp'] += 1
                 space_game_message.success(f'{game_state['turn']}가 커피를 마시고 각성했다.')
                 sally['items'][0] = ''
                 game_state['turn'] = 'Jh'
-            elif select_action_items == '맥주':
+            elif item_name == '맥주':
                 if game_state['magazine'][game_state['current_idx']] == 1:
                     space_game_message.success(f'{game_state['turn']}가 맥주를 들이키고 약실에 있는 실탄을 제거했다.')
                 else:
@@ -281,7 +281,7 @@ if not game_state['game_over']:  # 게임 진행 중
                 after_shoot()
                 sally['items'][1] = ''
                 game_state['turn'] = 'SaLLy'
-            elif select_action_items == '변환기':
+            elif item_name == '변환기':
                 if game_state['magazine'][game_state['current_idx']] == 1:
                     game_state['magazine'][game_state['current_idx']] = 0
                     space_game_message.success(f'{game_state['turn']}가 변환기를 사용하여 약실에 있는 실탄을 더미탄으로 바꿨다.')
@@ -309,7 +309,7 @@ if not game_state['game_over']:  # 게임 진행 중
                     sally['hp'] -= 1
                     space_game_message.error(f'{game_state['turn']} → {shoot_target} 격발! 실탄을 맞았다!')
                     play_sound("sound_shoot.mp3")
-                    if jh['hp'] == 0:
+                    if sally['hp'] == 0:
                         game_state['game_over'] = True
                 else:
                     space_game_message.success(f'{game_state['turn']} → {shoot_target} 격발! 아무 일도 일어나지 않았다...')
